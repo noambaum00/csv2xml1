@@ -15,9 +15,9 @@ This is a Python script that converts a CSV file to XML format and adds a random
 
    ```shell
    python script1.py
-The script will read the data.csv file, convert it to XML, and generate a file named data.xml in the same directory.
+The script will read the csv file, convert it to XML, and generate a file named data.xml in the same directory.
 
-Open the generated data.xml file to view the converted data with added random hex IDs.
+Open the generated xml file to view the converted data with added random hex IDs.
 
 Customization
 If you want to change the length of the random hex ID, you can modify the generate_random_hex function in the script. Currently, it generates an 8-character hex ID.
