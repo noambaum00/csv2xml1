@@ -22,7 +22,7 @@ Open the generated xml file to view the converted data with added random hex IDs
 Customization
 If you want to change the length of the random hex ID, you can modify the generate_random_hex function in the script. Currently, it generates an 8-character hex ID.
 License
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0.
 
 Feel free to customize and use it according to your needs.
 
